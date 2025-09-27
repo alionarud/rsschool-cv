@@ -26,7 +26,7 @@
   =====================================================
  ## **Education**
  
- * Belarusian State University
+  Belarusian State University
    =====================================================
  ## **Languages**
  * Russian
