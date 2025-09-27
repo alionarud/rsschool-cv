@@ -8,8 +8,7 @@
  
  ### *E-mail:* alionkarud@gmail.com
  
- ### *GitHub:* [alionarud][taglink]
- [taglink][https://github.com/alionarud]
+ ### *GitHub:* [alionarud](https://github.com/alionarud)
  =====================================================
  ## **About Me**
  
@@ -18,6 +17,11 @@
  
   =====================================================
  ## **Code Examples**
+ '''
+ function multiply(a, b){
+ return a * b
+}
+ '''
  
   =====================================================
  ## **Education**
